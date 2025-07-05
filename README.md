@@ -1,6 +1,6 @@
 # 🧪 Proyecto Fullstack - EcoMarket+
 
-Este repositorio contiene el desarrollo de un sistema backend simulado para **EcoMarket+**, realizado como parte de la asignatura de **Desarrollo Full Stack**. El proyecto se centra en la creación de servicios RESTful con **Spring Boot**, conexión a base de datos **MySQL**, pruebas manuales y automatizadas, y documentación de la API con **Swagger**.
+Este repositorio contiene el desarrollo de un sistema backend simulado para **EcoMarket+**, realizado como parte de la asignatura de **Desarrollo Full Stack**. El proyecto se centra en la creación de servicios RESTful con **Spring Boot**, conexión a base de datos **MySQL**, pruebas manuales y automatizadas, y documentación de la API con **Swagger** (local).
 
 > 🎓 Proyecto académico con enfoque profesional  
 > 🎯 Participación activa como **QA Tester** y desarrollador  
