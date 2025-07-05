@@ -1,67 +1,70 @@
-# 🧪 Proyecto Fullstack - Experiencia Profesional
+# 🧪 Proyecto Fullstack - EcoMarket+
 
-Este repositorio documenta y presenta el desarrollo de un proyecto simulado de sistema backend para **EcoMarket+**, realizado como parte de una experiencia académica orientada a prácticas profesionales. Se utilizó **Spring Boot** y **MySQL**, aplicando metodologías ágiles, pruebas automatizadas y manuales, y organización de tareas con Trello.
+Este repositorio contiene el desarrollo de un sistema backend simulado para **EcoMarket+**, realizado como parte de la asignatura de **Desarrollo Full Stack**. El proyecto se centra en la creación de servicios RESTful con **Spring Boot**, conexión a base de datos **MySQL**, pruebas manuales y automatizadas, y documentación de la API con **Swagger**.
 
-> 🎯 **Rol asumido:** QA Tester / Desarrollador Junior  
-> 💡 Proyecto orientado a **testing manual y automatizado**, simulando un entorno real de trabajo.
+> 🎓 Proyecto académico con enfoque profesional  
+> 🎯 Participación activa como **QA Tester** y desarrollador  
+> 🔍 Experiencia práctica en pruebas funcionales, unitarias y documentación técnica
 
 ---
 
 ## 📁 Estructura del repositorio
 
-### `Exp1`: Análisis y planificación
-- ✅ Acta de constitución del proyecto.
-- ✅ Documento ERS (especificación de requisitos del sistema).
-- ✅ Matriz de requisitos funcionales y no funcionales.
-- ✅ Presentación ejecutiva del proyecto EcoMarket+.
+### `Exp1`: Análisis y diseño inicial
+- ✏️ Acta de constitución del proyecto.
+- 📃 Documento de especificación de requisitos del sistema (ERS).
+- 📌 Matriz de requisitos funcionales y no funcionales.
+- 📊 Presentación del proyecto EcoMarket+.
 
-### `Exp2`: Desarrollo por funcionalidades
-- ✅ Controladores REST implementados.
-- ✅ Validaciones con anotaciones (`@Valid`, `@NotNull`, etc.).
-- ✅ Pruebas de endpoints con **Postman** (tester manual).
-- ✅ Organización de tareas con **Trello**.
-- ✅ Simulación de práctica profesional con **rol QA incluido**.
+### `Exp2`: Desarrollo de funcionalidades
+- 🔧 Implementación de controladores REST.
+- ✅ Validaciones de entrada con anotaciones (`@Valid`, `@NotNull`, etc.).
+- 📮 Pruebas funcionales realizadas con **Postman**.
+- 🧪 Simulación de trabajo profesional incluyendo **rol QA**.
+- 📘 Documentación de la API generada automáticamente con **Swagger**.
 
 ### `Exp3`: Pruebas e informe final
-- ✅ Creación de pruebas unitarias con **JUnit** y **Mockito**.
-- ✅ Aplicación de estrategias de testing (caja blanca y negra).
-- ✅ Corrección de errores detectados en pruebas funcionales.
-- ✅ Elaboración de informe final con análisis y aprendizajes.
+- ⚙️ Pruebas unitarias desarrolladas con **JUnit** y **Mockito**.
+- 📌 Aplicación de estrategias de testing: caja blanca y caja negra.
+- 🛠️ Corrección de errores detectados durante pruebas funcionales.
+- 📝 Informe final del proceso, aprendizajes y mejoras propuestas.
 
 ---
 
 ## 🧰 Tecnologías utilizadas
 
-- 🟦 Java + Spring Boot
-- 🟨 MySQL
-- 📮 Postman (pruebas funcionales manuales)
-- ✅ JUnit + Mockito (pruebas automatizadas)
-- 🗂️ Trello (gestión ágil de tareas)
+- ☕ Java 17
+- 🌱 Spring Boot 3
+- 🐬 MySQL
+- 📮 Postman (testing manual)
+- 🧪 JUnit + Mockito (testing automatizado)
+- 📚 Swagger (documentación interactiva de API)
 
 ---
 
-## 👩‍💻 Perfil orientado a QA Tester
+## 🧑‍💻 Enfoque como QA Tester en formación
 
-Este proyecto busca reflejar competencias clave para un perfil **QA sin experiencia laboral**, como:
+Este proyecto representa mis primeras experiencias aplicadas en calidad de software, incluyendo:
 
-- Pruebas manuales organizadas por funcionalidades.
-- Diseño y ejecución de pruebas automatizadas.
-- Simulación de flujo profesional de trabajo.
-- Redacción de informes de testing.
+- ✔️ Diseño y ejecución de pruebas manuales con Postman
+- ✔️ Creación de pruebas automatizadas para controladores y servicios
+- ✔️ Validación de reglas de negocio a través de anotaciones
+- ✔️ Simulación de trabajo colaborativo con enfoque profesional
 
 ---
 
 ## 📄 Informe final
 
-El informe completo con resultados de pruebas, reflexiones y mejoras sugeridas se encuentra en la carpeta `Exp3`.
+El análisis completo del proceso, pruebas aplicadas, aprendizajes y propuestas de mejora se encuentra disponible en la carpeta `Exp3`.
 
 ---
 
 ## 📬 Contacto
 
-Si estás buscando un tester entusiasta, autodidacta y con experiencia práctica en entornos académicos simulados, puedes contactarme directamente por este repositorio o vía [GitHub](https://github.com/Bryckson).
+Soy estudiante de Ingenieria en Informatica en formación con orientación al área de **calidad de software (QA)**, buscando oportunidades para crecer profesionalmente.  
+📧 Puedes contactarme a través de este repositorio o en [GitHub](https://github.com/Bryckson).
 
 ---
 
-> 💼 “El conocimiento se demuestra con hechos: este proyecto es mi primer paso.”
+> 💼 *"Este proyecto académico fue mi primer acercamiento práctico al mundo del testing profesional."*
 
