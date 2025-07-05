@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soportes</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 90%;
+            margin: auto;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 6px 8px;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Lista de Casos de Soporte</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID Caso</th>
+                <th>ID Usuario</th>
+                <th>Tipo</th>
+                <th>Mensaje</th>
+                <th>Fecha Creación</th>
+                <th>Estado</th>
+                <th>Respuesta</th>
+                <th>Fecha Respuesta</th>
+                <th>Activo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="soporte : ${soportes}">
+            <td th:text="${soporte.id}"></td>
+            <td th:text="${soporte.idUsuario}"></td>
+            <td th:text="${soporte.tipo}"></td>
+            <td th:text="${soporte.mensaje}"></td>
+            <td th:text="${soporte.fechaCreacion}"></td>
+            <td th:text="${soporte.estado}"></td>
+            <td th:text="${soporte.respuesta}"></td>
+            <td th:text="${soporte.fechaRespuesta}"></td>
+            <td th:text="${soporte.activo} ? 'Si' : 'No'"></td>
+
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>

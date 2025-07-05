@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ecomarket.springboot_rest.fullrest.restcontrollers.UsuarioRestControllersTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.701 s -- in com.ecomarket.springboot_rest.fullrest.restcontrollers.UsuarioRestControllersTest
